@@ -5,9 +5,13 @@ This is the main repository that is needed for project one.
 
 CMPG-323-Overview will be the main repository. It will have links to all the other repositories that will be made for the other projects.
 <p>A repository named CMPG 323 Project 2 - <35206152> will be created and used for project 2.</p>
+<p>https://github.com/JacoVisser/CMPG323-Project-2---35206152-</p>
 <p>A repository named CMPG 323 Project 3 - <35206152> will be created and used for project 3.</p>
+<p>https://github.com/JacoVisser/CMPG-323-Project-3---35206152</p>
 <p>A repository named CMPG 323 Project 4 - <35206152> will be created and used for project 4.</p>
+<p>https://github.com/JacoVisser/CMPG-323-Project-4---35206152</p>
 <p>A repository named CMPG 323 Project 5 - <35206152> will be created and used for project 5.</p>
+<p>https://github.com/JacoVisser/-CMPG-323-Project-5---35206152</p>
 
 ## Diagram explaining project and repository context and how they are integrated
 
